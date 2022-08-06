@@ -1,5 +1,4 @@
 university id       name
 2110040109          Naresh
 2110040086     	  Shanmuka
-2110040114          Bhanu kumar
 2110040121          Shivani
